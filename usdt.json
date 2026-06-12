@@ -1,0 +1,6 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "Tether USD on Solana Devnet (Velixir test stablecoin).",
+  "image": "https://cdn.jsdelivr.net/gh/g0far/velixir-token-assets@main/usdt.svg"
+}
