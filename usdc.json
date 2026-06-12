@@ -1,0 +1,6 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "description": "USD Coin on Solana Devnet (Velixir test stablecoin).",
+  "image": "https://cdn.jsdelivr.net/gh/g0far/velixir-token-assets@main/usdc.svg"
+}
